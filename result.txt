@@ -1,0 +1,182 @@
+results:
+#############################################################
+#############################################################
+#############################################################
+
+ionosphere.arff: predict classification attribute 34
+
+k = 1;
+====Total 351 |Correct 304 |Correct rate 0.866097===========
+
+k = 2;
+========Total 351 |Correct 304 |Correct rate 0.866097========
+
+k = 3;
+========Total 351 |Correct 298 |Correct rate 0.849003========
+
+k = 4;
+========Total 351 |Correct 299 |Correct rate 0.851852========
+
+k = 5;
+========Total 351 |Correct 297 |Correct rate 0.846154========
+
+k = 6;
+========Total 351 |Correct 299 |Correct rate 0.851852========
+
+k = 7;
+========Total 351 |Correct 292 |Correct rate 0.831909========
+
+k = 8;
+========Total 351 |Correct 293 |Correct rate 0.834758========
+
+k = 9;
+========Total 351 |Correct 292 |Correct rate 0.831909========
+
+k = 10;
+========Total 351 |Correct 293 |Correct rate 0.834758========
+
+k = 11;
+========Total 351 |Correct 293 |Correct rate 0.834758========
+
+k = 12;
+========Total 351 |Correct 293 |Correct rate 0.834758========
+
+k = 13;
+========Total 351 |Correct 293 |Correct rate 0.834758========
+
+k = 20;
+========Total 351 |Correct 293 |Correct rate 0.834758========
+
+k = 30;
+========Total 351 |Correct 285 |Correct rate 0.811966========
+
+k = 40;
+========Total 351 |Correct 280 |Correct rate 0.797721========
+
+k = 50;
+========Total 351 |Correct 262 |Correct rate 0.746439========
+
+k = 60;
+========Total 351 |Correct 249 |Correct rate 0.709402========
+
+k = 70;
+========Total 351 |Correct 243 |Correct rate 0.692308========
+
+k = 80;
+========Total 351 |Correct 239 |Correct rate 0.680912========
+
+k = 90;
+========Total 351 |Correct 235 |Correct rate 0.669516========
+
+k = 100;
+========Total 351 |Correct 228 |Correct rate 0.649573========
+
+k = 120;
+========Total 351 |Correct 226 |Correct rate 0.643875========
+
+k = 150;
+========Total 351 |Correct 225 |Correct rate 0.641026========
+
+k = 200;
+========Total 351 |Correct 225 |Correct rate 0.641026========
+
+k = 351;
+========Total 351 |Correct 225 |Correct rate 0.641026========
+
+
+#############################################################
+#############################################################
+#############################################################
+
+
+
+autos.arff: predict numeric attribute 34
+k = 1;
+========Total 159 |Correct 131 |Correct rate 0.823899========
+
+k = 2;
+========Total 159 |Correct 135 |Correct rate 0.849057========
+
+k = 3;
+========Total 159 |Correct 132 |Correct rate 0.830189========
+
+k = 4;
+========Total 159 |Correct 128 |Correct rate 0.805031========
+
+k = 5;
+========Total 159 |Correct 126 |Correct rate 0.792453========
+
+k = 6;
+========Total 159 |Correct 128 |Correct rate 0.805031========
+
+k = 7;
+========Total 159 |Correct 124 |Correct rate 0.779874========
+
+k = 8;
+========Total 159 |Correct 120 |Correct rate 0.754717========
+
+k = 9;
+========Total 159 |Correct 117 |Correct rate 0.735849========
+
+k = 10;
+========Total 159 |Correct 118 |Correct rate 0.742138========
+
+k = 11;
+========Total 159 |Correct 122 |Correct rate 0.767296========
+
+k = 12;
+========Total 159 |Correct 118 |Correct rate 0.742138========
+
+k = 13;
+========Total 159 |Correct 115 |Correct rate 0.723270========
+
+k = 14;
+========Total 159 |Correct 119 |Correct rate 0.748428========
+
+k = 15;
+========Total 159 |Correct 118 |Correct rate 0.742138========
+
+k = 20;
+========Total 159 |Correct 121 |Correct rate 0.761006========
+
+k = 30;
+========Total 159 |Correct 123 |Correct rate 0.773585========
+
+k = 40;
+========Total 159 |Correct 117 |Correct rate 0.735849========
+
+k = 50;
+========Total 159 |Correct 116 |Correct rate 0.729560========
+
+k = 60;
+========Total 159 |Correct 103 |Correct rate 0.647799========
+
+k = 70;
+========Total 159 |Correct 103 |Correct rate 0.647799========
+
+k = 80;
+========Total 159 |Correct 96 |Correct rate 0.603774=========
+
+k = 90;
+========Total 159 |Correct 81 |Correct rate 0.509434=========
+
+k = 100;
+========Total 159 |Correct 78 |Correct rate 0.490566=========
+
+k = 110;
+========Total 159 |Correct 66 |Correct rate 0.415094=========
+
+k = 120;
+========Total 159 |Correct 54 |Correct rate 0.339623=========
+
+k = 140;
+========Total 159 |Correct 42 |Correct rate 0.264151=========
+
+k = 159;
+========Total 159 |Correct 34 |Correct rate 0.213836=========
+
+
+
+
+
+
